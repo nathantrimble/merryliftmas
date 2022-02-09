@@ -29,6 +29,11 @@ body {
   background-image: linear-gradient(to right, tan, wheat );
   text-shadow: .5px .5px chocolate;
 }
+body {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.jpg) 30 round;
+}
 
 #bananaS {
 display: none;
