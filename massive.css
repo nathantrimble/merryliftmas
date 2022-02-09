@@ -29,3 +29,27 @@ body {
   background-image: linear-gradient(to right, tan, wheat );
   text-shadow: .5px .5px chocolate;
 }
+
+#bananaS {
+display: none;
+}
+
+#oatmealS {
+display: none;
+}
+
+#eggS {
+display: none;
+}
+
+#broccoliS {
+display: none;
+}
+
+#chickenS {
+display: none;
+}
+
+#brownriceS {
+display: none;
+}
