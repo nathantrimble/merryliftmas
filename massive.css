@@ -8,9 +8,6 @@ h1{
   padding-left:25px;
   padding-right:25px;
 }
-a{
-  color: tan;
-}
 p{
   margin-left: 10px;
 }
@@ -22,12 +19,6 @@ h4{
 }
 img{
   margin-left: 10px;
-  box-shadow: 5px;
-  border-style: solid;
-}
-body {
-  background-image: linear-gradient(to right, tan, wheat );
-  text-shadow: .5px .5px chocolate;
 }
 
 #bananaS {
@@ -45,11 +36,6 @@ display: none;
 #broccoliS {
 display: none;
 }
-
-#broccoliS {
-display: none;
-}
-
 
 #chickenS {
 display: none;
