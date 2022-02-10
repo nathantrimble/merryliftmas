@@ -35,6 +35,42 @@ body {
   border-image: url(border.jpg) 30 round;
 }
 
+/*css for buttons*/#banana {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
+#oatmeal {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
+#eggs {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
+#broccoli {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
+#chicken {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
+#brownrice {
+  background-color: rgb(57,37,2,0.72);
+  border:3px solid black;
+  color: white;
+}
+
 #bananaS {
 display: none;
 }
@@ -57,4 +93,9 @@ display: none;
 
 #brownriceS {
 display: none;
+}
+
+#Npage {
+
+
 }
