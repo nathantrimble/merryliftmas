@@ -17,5 +17,11 @@ $(document).ready(function(){
             $("#brownrice").click(function(){
               $("#brownriceS").toggle();
             });
+$("#cbutton").click(function(){
+
+  $("#chonk").toggle();
+});
+
+
 
 });
