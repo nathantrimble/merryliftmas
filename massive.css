@@ -98,3 +98,20 @@ display: none;
 #Npage {
 margin-bottom: 50px;
 }
+
+<<<<<<< HEAD
+#Bimage {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#CarbH {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+=======
+#chonk{
+  display: none;
+>>>>>>> 81d3230c37a6604f1114b79bec370f115bac0380
+}
