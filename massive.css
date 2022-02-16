@@ -106,10 +106,26 @@ margin-left: auto;
 margin-right: auto;
 }
 
-#CarbH {
+#Mimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#Wimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Fimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
 }
 #chonk{
   display: none;
